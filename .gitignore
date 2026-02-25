@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Build files
+build/
+dist/
+
+# React Native specific
+android/
+ios/
+
+# Environment variables
+.env
+
+# Firebase service account keys
+serviceAccountKey.json
